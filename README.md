@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaslegramante&count_private=true)
+https://github-readme-stats-1197xpaql-lucas-legramantes-projects.vercel.app
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaslegramante&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical&count_private=true)
 
