@@ -2,7 +2,9 @@
 
 ![Anurag's GitHub stats]([https://github-stats-readmed-nvuf54enm-lucas-legramantes-projects.vercel.app](https://github-stats-readmed-nvuf54enm-lucas-legramantes-projects.vercel.app/api?username=lucaslegramante&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical&count_private=true)
 
-![Legras's GitHub stats](https://github-stats-readmed-nvuf54enm-lucas-legramantes-projects.vercel.app/api?username=lucaslegramante&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical&count_private=true)
+
+
+!([https://github-stats-readmed-nvuf54enm-lucas-legramantes-projects.vercel.app](https://github-stats-readmed-nvuf54enm-lucas-legramantes-projects.vercel.app/api?username=lucaslegramante&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical&count_private=true)
 
 
 
