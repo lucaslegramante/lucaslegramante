@@ -4,7 +4,7 @@
 ![Legras's Public GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaslegramante&theme=merko&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical&count_private=true)
 
 ## Legras's Private GitHub stats
-[Legras's Private GitHub stats](https://github-legras-readme-stats-iy0hj2hjj-lucas-legramantes-projects.vercel.app/api?username=lucaslegramante&theme=merko&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical&count_private=true)
+[See the stats here!](https://github-legras-readme-stats-iy0hj2hjj-lucas-legramantes-projects.vercel.app/api?username=lucaslegramante&theme=merko&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical&count_private=true)
 
 
 
