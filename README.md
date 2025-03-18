@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Lucas Legramante
 
-**`Desenvolvedor FullStack`**
+**`Back-end Developer`**
 
 <p align="left">
     <a href="https://www.linkedin.com/in/lucaslegramante/" target="_blank">
@@ -14,7 +14,7 @@
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages ​​and Technologies
 
 <img
     align="left"
@@ -109,7 +109,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgr
 <br/>
 ---
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
     <img align="left"
@@ -121,7 +121,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgr
     <img  align="left"
         alt="GitHub Stats"
         height="200"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslegramante&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslegramante&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9"
     />
 </p>
 
