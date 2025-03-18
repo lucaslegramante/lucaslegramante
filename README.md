@@ -125,6 +125,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgr
     src="https://github-readme-stats.vercel.app/api?username=lucaslegramante&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats-git-main-lucas-legramantes-projects.vercel.app/api?username=lucaslegramante&theme=merko&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical&count_private=true" 
+  />
+<img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
