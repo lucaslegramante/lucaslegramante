@@ -116,7 +116,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgr
             alt="GitHub Stats"
             height="200"
             style="padding-right: 10px;"
-            src="https://github-readme-stats-git-main-lucas-legramantes-projects.vercel.app/api?username=lucaslegramante&theme=merko&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight&count_private=true"
+            src="https://github-readme-stats-git-main-lucas-legramantes-projects.vercel.app/api?username=lucaslegramante&theme=tokyonight&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&count_private=true"
     />
     <img  align="left"
         alt="GitHub Stats"
